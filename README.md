@@ -15,7 +15,7 @@ Network={
 	ssid="YOUR_SSID_NAME"
 	psk="YOUR_PASSWORD"
 }
-#note : save editor Esc >>>> :x
+# note : save editor Esc >>>> :x
  
 
 4. Associate the wlan with config:
