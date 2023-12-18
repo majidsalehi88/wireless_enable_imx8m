@@ -42,4 +42,5 @@ udhcpc -i wlan0
 
 
 8. Check the network:
+
 ping 8.8.8.8
