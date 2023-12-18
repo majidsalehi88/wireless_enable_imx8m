@@ -11,11 +11,11 @@ mcedit /etc/wpa_supplicant.conf
 3. Change the Network block to as follows (keep the quotation marks):
 
 Network={
-scan_ssid=1
-ssid="YOUR_SSID_NAME"
-psk="YOUR_PASSWORD"
+	scan_ssid=1
+	ssid="YOUR_SSID_NAME"
+	psk="YOUR_PASSWORD"
 }
-note : save editor Esc >>>> :x
+#note : save editor Esc >>>> :x
  
 
 4. Associate the wlan with config:
