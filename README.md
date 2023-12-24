@@ -10,7 +10,7 @@ mcedit /etc/wpa_supplicant.conf
 
 3. Change the Network block to as follows (keep the quotation marks):
 
-Network={
+network={
 
 scan_ssid=1
 
